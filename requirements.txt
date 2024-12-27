@@ -1,0 +1,5 @@
+flask
+xmlstarlet
+lxml
+odfpy
+

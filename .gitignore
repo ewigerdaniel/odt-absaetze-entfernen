@@ -1,0 +1,8 @@
+uploads/
+processed/
+temp_dir/
+*.pyc
+__pycache__/
+*.log
+*.bak
+
